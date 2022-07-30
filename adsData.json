@@ -1,0 +1,3836 @@
+[
+  {
+    "id": "6099577529",
+    "title": "Mercedes-Benz Actros",
+    "price": "137500 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "834650 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098447195",
+    "title": "Mercedes-Benz AROCS 1842 4x4",
+    "price": "227000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "22/01/2016",
+    "mileage": "347167 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6097292248",
+    "title": "Mercedes-Benz Actros",
+    "price": "125000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "08/06/2016",
+    "mileage": "773000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099847358",
+    "title": "Mercedes-Benz ACTROS 4450",
+    "price": "85000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "07/05/2013",
+    "mileage": "770801 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099881598",
+    "title": "Mercedes-Benz 1845 Actros",
+    "price": "69900 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "1100000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095525954",
+    "title": "Mercedes-Benz Actros",
+    "price": "175000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "11/04/2018",
+    "mileage": "627275 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099562651",
+    "title": "Mercedes-Benz Actros 1845 EURO-6 ADR",
+    "price": "57500 EUR",
+    "productionDate": "2017",
+    "registrationDate": "29/12/2017",
+    "mileage": "472735 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098580545",
+    "title": "Mercedes-Benz ACTROS 1845 STREAMSPACE DOBRA WAGA",
+    "price": "134900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "28/10/2014",
+    "mileage": "535000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099893533",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "150000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "740000 km",
+    "power": "530 KM"
+  },
+  {
+    "id": "6099880356",
+    "title": "Mercedes-Benz ACTROS 1845 STREAMSPACE 4x2 EURO6 CIĄGNIK SIODŁOWY",
+    "price": "92900 EUR",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "82615 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099989481",
+    "title": "Mercedes-Benz Actros 1848 GigaSpace",
+    "price": "185000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "596000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6100049460",
+    "title": "Mercedes-Benz Actros Mp4 1853",
+    "price": "295000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "490000 km",
+    "power": "530 KM"
+  },
+  {
+    "id": "6099132809",
+    "title": "Mercedes-Benz AXOR 1843",
+    "price": "49900 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "600317 km",
+    "power": "428 KM"
+  },
+  {
+    "id": "6098966507",
+    "title": "Mercedes-Benz Actros",
+    "price": "95000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "944876 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098885472",
+    "title": "Mercedes-Benz Actros Mp4 1863",
+    "price": "335000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "598000 km",
+    "power": "630 KM"
+  },
+  {
+    "id": "6098598685",
+    "title": "Mercedes-Benz Actros 1844",
+    "price": "69000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "720000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6095038615",
+    "title": "Mercedes-Benz Actros",
+    "price": "135000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "01/05/2014",
+    "mileage": "532646 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099884483",
+    "title": "Mercedes-Benz ACTROS 1844",
+    "price": "99900 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1047598 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6099403969",
+    "title": "Mercedes-Benz ACTROS 1848 LS STANDART GIGA SPACE",
+    "price": "79999 EUR",
+    "productionDate": "2019",
+    "registrationDate": "06/06/2019",
+    "mileage": "364000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6094346855",
+    "title": "Mercedes-Benz Actros Mp4",
+    "price": "268000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "360000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099898910",
+    "title": "Mercedes-Benz ACTROS 1945",
+    "price": "169900 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "572520 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6099843492",
+    "title": "Mercedes-Benz Actros 1845 MP5",
+    "price": "73500 EUR",
+    "productionDate": "2019",
+    "registrationDate": "21/06/2019",
+    "mileage": "437649 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099979428",
+    "title": "Mercedes-Benz Actros 1842",
+    "price": "185000 PLN",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "307000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6098777962",
+    "title": "Mercedes-Benz ACTROS 18.510",
+    "price": "60000 EUR",
+    "productionDate": "2018",
+    "registrationDate": "15/02/2018",
+    "mileage": "495000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6100007610",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "109000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "985000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099910079",
+    "title": "Mercedes-Benz Actros",
+    "price": "110000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1231865 km",
+    "power": "null"
+  },
+  {
+    "id": "6099993816",
+    "title": "Mercedes-Benz Arocs 1846 4x4 Hydraulika",
+    "price": "305000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "06/07/2018",
+    "mileage": "202400 km",
+    "power": "460 KM"
+  },
+  {
+    "id": "6100018425",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "245000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "499000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099912621",
+    "title": "Mercedes-Benz 1853",
+    "price": "299000 PLN",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "397000 km",
+    "power": "530 KM"
+  },
+  {
+    "id": "6099525931",
+    "title": "Mercedes-Benz AROCS 2042 4x4 EURO6 CIĄGNIK SIODŁOWY",
+    "price": "94900 EUR",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "52294 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099276978",
+    "title": "Mercedes-Benz ACTROS 1845 MP4 / GIGA SPACE / MEGA / AUTOMAT /RETARDER",
+    "price": "30500 EUR",
+    "productionDate": "2016",
+    "registrationDate": "03/08/2016",
+    "mileage": "833000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099498156",
+    "title": "Mercedes-Benz Actros 1845 LSnRL * Regulowane siodło * Bi-Xenon *",
+    "price": "239000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "16/02/2017",
+    "mileage": "523000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099768013",
+    "title": "Mercedes-Benz AXOR",
+    "price": "39800 PLN",
+    "productionDate": "2003",
+    "registrationDate": "13/11/2003",
+    "mileage": "733650 km",
+    "power": "315 KM"
+  },
+  {
+    "id": "6098655988",
+    "title": "Mercedes-Benz Actros 1845 MP4 LS 4X2 StreamSpace EURO 6 Uszkodzony silnik",
+    "price": "61000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "950000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099678935",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "20890 EUR",
+    "productionDate": "2013",
+    "registrationDate": "28/03/2013",
+    "mileage": "934161 km",
+    "power": "442 KM"
+  },
+  {
+    "id": "6100050158",
+    "title": "Mercedes-Benz Actros 1845 BIGSPACE",
+    "price": "42900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "624000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099861700",
+    "title": "Mercedes-Benz MP4",
+    "price": "60000 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "460000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099761557",
+    "title": "Mercedes-Benz 1845",
+    "price": "110000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "24/06/2015",
+    "mileage": "868060 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097194171",
+    "title": "Mercedes-Benz Econic 1835 4x2 Hydraulika Euro 6 Niski przebieg",
+    "price": "159000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "142000 km",
+    "power": "350 KM"
+  },
+  {
+    "id": "6099861505",
+    "title": "Mercedes-Benz MP4",
+    "price": "60000 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "445000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099656076",
+    "title": "Mercedes-Benz Actros 4x4 2040",
+    "price": "150000 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "650000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6098590849",
+    "title": "Mercedes-Benz Actros mp3",
+    "price": "98000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1180000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099190627",
+    "title": "Mercedes-Benz MP4 1845",
+    "price": "59500 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "363938 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100051259",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "94000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "07/06/2013",
+    "mileage": "1119840 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6098424294",
+    "title": "Mercedes-Benz actros-1844-ls",
+    "price": "90000 PLN",
+    "productionDate": "2009",
+    "registrationDate": "20/07/2009",
+    "mileage": "1086000 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6098311602",
+    "title": "Mercedes-Benz Actros 1848 Streamspace RETARDER",
+    "price": "90000 EUR",
+    "productionDate": "2020",
+    "registrationDate": "19/08/2020",
+    "mileage": "96000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099165788",
+    "title": "Mercedes-Benz Actros",
+    "price": "95000 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "1116000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099192484",
+    "title": "Mercedes-Benz ACTROS 1843 LS",
+    "price": "157000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "10/05/2017",
+    "mileage": "557000 km",
+    "power": "428 KM"
+  },
+  {
+    "id": "6097957494",
+    "title": "Mercedes-Benz Actros MP4",
+    "price": "95000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "980000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099186440",
+    "title": "Mercedes-Benz Actros 1843LS",
+    "price": "74900 EUR",
+    "productionDate": "2019",
+    "registrationDate": "28/08/2019",
+    "mileage": "199800 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6099356558",
+    "title": "Mercedes-Benz Actros 1845 Standard Retarder Euro6",
+    "price": "146000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "750000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099464724",
+    "title": "Mercedes-Benz ACTROS 1845 Ciągnik siodłowy * STAN BDB",
+    "price": "229000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "20/12/2017",
+    "mileage": "527000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099469476",
+    "title": "Mercedes-Benz Actros",
+    "price": "129300 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "939583 km",
+    "power": "null"
+  },
+  {
+    "id": "6098839018",
+    "title": "Mercedes-Benz actros",
+    "price": "150000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "834121 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099461533",
+    "title": "Mercedes-Benz ACTROS 1842",
+    "price": "89000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "1341000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6090202265",
+    "title": "Mercedes-Benz ACTROS 1846 LS",
+    "price": "86000 PLN",
+    "productionDate": "2008",
+    "registrationDate": "09/07/2008",
+    "mileage": "1114000 km",
+    "power": "455 KM"
+  },
+  {
+    "id": "6099759526",
+    "title": "Mercedes-Benz ACTROS 1848",
+    "price": "335000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "09/05/2018",
+    "mileage": "343016 km",
+    "power": "476 KM"
+  },
+  {
+    "id": "6099018189",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "59900 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "376365 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095203220",
+    "title": "Mercedes-Benz Actros",
+    "price": "149900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "02/04/2015",
+    "mileage": "520000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097610480",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "130000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "02/09/2014",
+    "mileage": "853052 km",
+    "power": "330 KM"
+  },
+  {
+    "id": "6094187553",
+    "title": "Mercedes-Benz Atego 1327",
+    "price": "168000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "270 KM"
+  },
+  {
+    "id": "6097163683",
+    "title": "Mercedes-Benz AROCS",
+    "price": "28900 EUR",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "699999 km",
+    "power": "315 KM"
+  },
+  {
+    "id": "6097550807",
+    "title": "Mercedes-Benz Actros MP4 euro 6",
+    "price": "33400 EUR",
+    "productionDate": "2019",
+    "registrationDate": "07/02/2019",
+    "mileage": "402151 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6100047778",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / RETARDER / FLEETBOARD / NAVI / EURO 6 /",
+    "price": "189000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "25/05/2016",
+    "mileage": "471000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6085348587",
+    "title": "Mercedes-Benz Actros",
+    "price": "72000 PLN",
+    "productionDate": "2011",
+    "registrationDate": "27/01/2012",
+    "mileage": "991018 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6100027474",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "99000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "15/11/2013",
+    "mileage": "944037 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100015467",
+    "title": "Mercedes-Benz ACTROS 1848 / STREAM SPACE / RETARDER / HYDRAULIKA / EURO 6 /",
+    "price": "149900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "02/02/2015",
+    "mileage": "683000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6094065233",
+    "title": "Mercedes-Benz ACTROS 1845 E6 12.2015_NOWE OPONY_SALON PL_ZADBANY !! STANDARD!!",
+    "price": "132000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "924000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099964000",
+    "title": "Mercedes-Benz ACTROS / 1848 / ACC / E 6 / GIGA SPACE / RETARDER / BAKI 1300 L / MAŁY PRZEBIEG",
+    "price": "268000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "null"
+  },
+  {
+    "id": "6098426513",
+    "title": "Mercedes-Benz Actros 1843",
+    "price": "147000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "02/02/2016",
+    "mileage": "559151 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6100015072",
+    "title": "Mercedes-Benz ciągnik",
+    "price": "24000 EUR",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "748000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099735486",
+    "title": "Mercedes-Benz Actros",
+    "price": "87000 EUR",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "149000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100021200",
+    "title": "Mercedes-Benz Actros MP3 1844",
+    "price": "109000 PLN",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "1246448 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6098289172",
+    "title": "Mercedes-Benz ACTROS 2044 * NAPĘD 4X4 *",
+    "price": "156000 PLN",
+    "productionDate": "2011",
+    "registrationDate": "04/03/2011",
+    "mileage": "673711 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6098447175",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "37900 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "528340 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100019394",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "32000 EUR",
+    "productionDate": "2016",
+    "registrationDate": "17/03/2016",
+    "mileage": "622000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100015021",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "64100 EUR",
+    "productionDate": "2019",
+    "registrationDate": "06/06/2019",
+    "mileage": "522043 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095276712",
+    "title": "Mercedes-Benz Actros 1853/EURO6",
+    "price": "297700 PLN",
+    "productionDate": "2017",
+    "registrationDate": "01/09/2017",
+    "mileage": "445000 km",
+    "power": "null"
+  },
+  {
+    "id": "6100022668",
+    "title": "Mercedes-Benz Actros 1845 Stream Space Low Deck Serwisowany Salon PL!",
+    "price": "119000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "820000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099154371",
+    "title": "Mercedes-Benz Actros 1845 euro 5 EEV",
+    "price": "86500 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "790000 km",
+    "power": "null"
+  },
+  {
+    "id": "6100014691",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 StreamSpace PB",
+    "price": "37300 EUR",
+    "productionDate": "2017",
+    "registrationDate": "03/05/2017",
+    "mileage": "844711 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094399076",
+    "title": "Mercedes-Benz ACTROS 1845 2015 EURO 6_STANDARD_SALON PL_ŁADNY",
+    "price": "115000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "1100000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098422813",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "44900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "626846 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099411632",
+    "title": "Mercedes-Benz MP4",
+    "price": "82000 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "400000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6100014776",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "30300 EUR",
+    "productionDate": "2016",
+    "registrationDate": "19/05/2016",
+    "mileage": "979634 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098422638",
+    "title": "Mercedes-Benz Arocs 1843 Francja",
+    "price": "32900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "555977 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6099963939",
+    "title": "Mercedes-Benz ACTROS / 1845 / ACC / E 6 / GIGA SPACE / BAKI 1300 L / MAŁY PRZEBIEG",
+    "price": "316000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "350000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099348375",
+    "title": "Mercedes-Benz Actros 1848 Salonka Retarder Lodowka Klima Postojowa",
+    "price": "99900 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "836000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100014725",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpaceCPS",
+    "price": "91100 EUR",
+    "productionDate": "2021",
+    "registrationDate": "25/02/2021",
+    "mileage": "227303 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098665280",
+    "title": "Mercedes-Benz ACTROSMP4 1843 430KM BIG SPACE AUTOMAT EURO VI",
+    "price": "140000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "22/09/2015",
+    "mileage": "598000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6096519574",
+    "title": "Mercedes-Benz ACTROS 1842 MP4 EURO 6 Sprowadzony z Niemiec",
+    "price": "135000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "697486 km",
+    "power": "null"
+  },
+  {
+    "id": "6099397369",
+    "title": "Mercedes-Benz 1848 LS standard bez retardera",
+    "price": "47000 EUR",
+    "productionDate": "2017",
+    "registrationDate": "02/07/2017",
+    "mileage": "520000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100014238",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "29500 EUR",
+    "productionDate": "2016",
+    "registrationDate": "12/05/2016",
+    "mileage": "1024205 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099962299",
+    "title": "Mercedes-Benz ACTROS / 1845 / ACC / MP 4 / EURO 6 / STREAMSPACE",
+    "price": "248000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "410000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099156901",
+    "title": "Mercedes-Benz 1845 L0W DECK mega POKONTRAKTOWY",
+    "price": "59000 EUR",
+    "productionDate": "2019",
+    "registrationDate": "07/01/2019",
+    "mileage": "480000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099156203",
+    "title": "Mercedes-Benz 1845 L0W DECK mega",
+    "price": "54500 EUR",
+    "productionDate": "2018",
+    "registrationDate": "23/03/2018",
+    "mileage": "510000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098391134",
+    "title": "Mercedes-Benz Arocs 3351 6x4 Bigspace 80t z Francja",
+    "price": "52900 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "523424 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6089885556",
+    "title": "Mercedes-Benz 1848",
+    "price": "175000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "620000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098710223",
+    "title": "Mercedes-Benz ACTROS 1845 LSnRL / LOW DECK / POLSKI SALON",
+    "price": "279000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "06/11/2018",
+    "mileage": "416000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098034311",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "75500 EUR",
+    "productionDate": "2019",
+    "registrationDate": "10/10/2019",
+    "mileage": "500000 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6098418155",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "58900 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "463249 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099647839",
+    "title": "Mercedes-Benz Actros 1845 LS",
+    "price": "55000 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "489000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100002814",
+    "title": "Mercedes-Benz Actros",
+    "price": "218000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "29/05/2017",
+    "mileage": "475000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099384510",
+    "title": "Mercedes-Benz Actros 1946",
+    "price": "256800 PLN",
+    "productionDate": "2019",
+    "registrationDate": "10/12/2019",
+    "mileage": "208000 km",
+    "power": "455 KM"
+  },
+  {
+    "id": "6100001628",
+    "title": "Mercedes-Benz AXOR 1840",
+    "price": "13800 EUR",
+    "productionDate": "2009",
+    "registrationDate": null,
+    "mileage": "978000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6098331934",
+    "title": "Mercedes-Benz 1845 Actros Bigspace Lowdeck",
+    "price": "47900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "553671 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097804071",
+    "title": "Mercedes-Benz 1845 ACTROS MP4_STANDARD_NOWE OPONY_ŁADNY!!",
+    "price": "76900 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1175000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098019179",
+    "title": "Mercedes-Benz Actros MP4 1845",
+    "price": "109900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "05/05/2013",
+    "mileage": "834000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099330627",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "105000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "945000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099854661",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "285000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "20/05/2019",
+    "mileage": "386000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099373132",
+    "title": "Mercedes-Benz Actros 1845 Euro 6",
+    "price": "100000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "800310 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100006638",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "107500 PLN",
+    "productionDate": "2013",
+    "registrationDate": "30/12/2013",
+    "mileage": "814000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096560626",
+    "title": "Mercedes-Benz 1844 LS",
+    "price": "33333 EUR",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "831803 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6100011021",
+    "title": "Mercedes-Benz Actros 1848 LS 4x2 BigSpace PC",
+    "price": "42400 EUR",
+    "productionDate": "2017",
+    "registrationDate": "26/06/2017",
+    "mileage": "841884 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099130160",
+    "title": "Mercedes-Benz Actros 1843 LS",
+    "price": "157000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "10/05/2017",
+    "mileage": "557624 km",
+    "power": "428 KM"
+  },
+  {
+    "id": "6100011077",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 StreamSpace PB",
+    "price": "37100 EUR",
+    "productionDate": "2017",
+    "registrationDate": "08/05/2017",
+    "mileage": "853986 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099852092",
+    "title": "Mercedes-Benz ACTROS 1845 AUTOMAT /MEGA/LOWDECK/",
+    "price": "289000 PLN",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097681022",
+    "title": "Mercedes-Benz Actros MP4",
+    "price": "154600 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "500000 km",
+    "power": "null"
+  },
+  {
+    "id": "6100011110",
+    "title": "Mercedes-Benz 1845 Actros Euro 6 12809ccm - 449KM 18t 11-19",
+    "price": "131900 PLN",
+    "productionDate": "2016",
+    "registrationDate": "09/09/2016",
+    "mileage": "634283 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099143738",
+    "title": "Mercedes-Benz ActrosMP 4",
+    "price": "46000 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "537000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096165567",
+    "title": "Mercedes-Benz ACTROS 1842 2015_AUTOMAT_SERWISOWANY_ZADBANY_STANDARD",
+    "price": "122000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "821000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6100011774",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "29100 EUR",
+    "productionDate": "2016",
+    "registrationDate": "20/04/2016",
+    "mileage": "1045273 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6100012618",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "29800 EUR",
+    "productionDate": "2016",
+    "registrationDate": "18/05/2016",
+    "mileage": "1006894 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099143485",
+    "title": "Mercedes-Benz ACTROS 1848 EURO 6// SUPER STAN // SERWISOWANY //",
+    "price": "168000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "498000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6096408032",
+    "title": "Mercedes-Benz Actros 1848 GigaSpace Bez retarder L0wdeck Mega",
+    "price": "209900 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "499999 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6100010951",
+    "title": "Mercedes-Benz Actros 2558",
+    "price": "2000 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "550000 km",
+    "power": "580 KM"
+  },
+  {
+    "id": "6099389752",
+    "title": "Mercedes-Benz Actros 1843*Euro 6*2015*Retarder*1 Tank",
+    "price": "33700 EUR",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "382000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6099383345",
+    "title": "Mercedes-Benz Actros MP 4",
+    "price": "33900 EUR",
+    "productionDate": "2015",
+    "registrationDate": "15/02/2016",
+    "mileage": "650000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6098656979",
+    "title": "Mercedes-Benz 1845",
+    "price": "130700 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "670000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6087580441",
+    "title": "Mercedes-Benz Actros 1841",
+    "price": "105000 PLN",
+    "productionDate": "2010",
+    "registrationDate": "14/09/2010",
+    "mileage": "489000 km",
+    "power": "410 KM"
+  },
+  {
+    "id": "6098377423",
+    "title": "Mercedes-Benz Actros",
+    "price": "79000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1095000 km",
+    "power": "null"
+  },
+  {
+    "id": "6096647808",
+    "title": "Mercedes-Benz ACTROS MP4 2017",
+    "price": "195000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "01/02/2017",
+    "mileage": "510000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098651278",
+    "title": "Mercedes-Benz Actros 1842LS",
+    "price": "134900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "11/01/2016",
+    "mileage": "732000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099155635",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "297700 PLN",
+    "productionDate": "2017",
+    "registrationDate": "17/11/2017",
+    "mileage": "570000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099841505",
+    "title": "Mercedes-Benz Actros 1845 Low Liner",
+    "price": "135375 PLN",
+    "productionDate": "2013",
+    "registrationDate": "05/04/2013",
+    "mileage": "753570 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099998940",
+    "title": "Mercedes-Benz Actros 1851",
+    "price": "130000 PLN",
+    "productionDate": "2011",
+    "registrationDate": "14/11/2011",
+    "mileage": "460000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6094559904",
+    "title": "Mercedes-Benz ACTROS 1851 / STREAM SPACE / EURO 5 EEV /",
+    "price": "119900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "13/11/2013",
+    "mileage": "744000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6099668611",
+    "title": "Mercedes-Benz ACTROS 18.45 4x4 Hydro Drive, hydraulika, 15r SUPER IDEALNY",
+    "price": "179000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "500000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098176292",
+    "title": "Mercedes-Benz Actros",
+    "price": "76500 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "281440 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094784741",
+    "title": "Mercedes-Benz ACTROS 1851 / STREAM SPACE / EURO 6 /",
+    "price": "129900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "09/01/2014",
+    "mileage": "710000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6098196904",
+    "title": "Mercedes-Benz Actros",
+    "price": "88000 EUR",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "193370 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097619414",
+    "title": "Mercedes-Benz arocs",
+    "price": "95000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "618000 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6097364295",
+    "title": "Mercedes-Benz AROCS 3351 / 6 X 4 / NISKA KABINA / MAX MASA 68 TON !! / RETARDER / EURO 6 /",
+    "price": "259900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "04/03/2015",
+    "mileage": "514000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6094925524",
+    "title": "Mercedes-Benz AXOR 1836 EURO 5 CIĄGNIK SIODŁOWY STANDARD",
+    "price": "56500 PLN",
+    "productionDate": "2010",
+    "registrationDate": "17/06/2010",
+    "mileage": "984039 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6094458038",
+    "title": "Mercedes-Benz ACTROS 1848 / STREAM SPACE / RETARDER / EURO 6 /",
+    "price": "129900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "31/01/2014",
+    "mileage": "650000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099290089",
+    "title": "Mercedes-Benz ACTROS 1845 BIGSPACE NOWY MODEL!",
+    "price": "415000 PLN",
+    "productionDate": "2020",
+    "registrationDate": "11/12/2020",
+    "mileage": "150000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099828812",
+    "title": "Mercedes-Benz Actros 1842 Low Liner",
+    "price": "223244 PLN",
+    "productionDate": "2018",
+    "registrationDate": "02/02/2018",
+    "mileage": "455000 km",
+    "power": "421 KM"
+  },
+  {
+    "id": "6094918580",
+    "title": "Mercedes-Benz AXOR 1836 EURO 5 CIĄGNIK SIODŁOWY STANDARD",
+    "price": "69500 PLN",
+    "productionDate": "2012",
+    "registrationDate": "12/11/2012",
+    "mileage": "649982 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6094977214",
+    "title": "Mercedes-Benz AXOR 1836 EURO 5 CIĄGNIK SIODŁOWY STANDARD",
+    "price": "59500 PLN",
+    "productionDate": "2012",
+    "registrationDate": "09/11/2012",
+    "mileage": "1010945 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6099646112",
+    "title": "Mercedes-Benz MP4",
+    "price": "60500 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "424000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094561405",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / EURO 5 EEV /",
+    "price": "112900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "07/02/2013",
+    "mileage": "821000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098857307",
+    "title": "Mercedes-Benz ACTROS 1845 / EURO 5 / PTO /",
+    "price": "99900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "03/07/2013",
+    "mileage": "778000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096266748",
+    "title": "Mercedes-Benz Actros 1848",
+    "price": "298000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "18/10/2018",
+    "mileage": "448539 km",
+    "power": "476 KM"
+  },
+  {
+    "id": "6099645436",
+    "title": "Mercedes-Benz ACTROS 1843 / 2 ZBIORNIKI / 460 000 KM / Z FRANCJI / STAN BDB / / /",
+    "price": "129900 PLN",
+    "productionDate": "2016",
+    "registrationDate": "16/05/2016",
+    "mileage": "460000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6084979636",
+    "title": "Mercedes-Benz Actros",
+    "price": "145000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "745000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099301183",
+    "title": "Mercedes-Benz ACTROS 1848 EURO6 GIGA SPACE",
+    "price": "342000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "24/09/2018",
+    "mileage": "315500 km",
+    "power": "476 KM"
+  },
+  {
+    "id": "6097913077",
+    "title": "Mercedes-Benz Actros 1845 LS * Klima Postojowa * Stan perfekcyjny",
+    "price": "285000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "10/05/2017",
+    "mileage": "437000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098228389",
+    "title": "Mercedes-Benz Actros",
+    "price": "88000 EUR",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "190108 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099252201",
+    "title": "Mercedes-Benz Actros",
+    "price": "83500 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1191000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099646334",
+    "title": "Mercedes-Benz Ciągnik siodłowy 1841 z HDS Fassi F130A.22 / 130 tys. km !!!",
+    "price": "165000 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "130000 km",
+    "power": "410 KM"
+  },
+  {
+    "id": "6099986719",
+    "title": "Mercedes-Benz 1851",
+    "price": "89900 EUR",
+    "productionDate": "2021",
+    "registrationDate": null,
+    "mileage": "200000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6097890906",
+    "title": "Mercedes-Benz Actros 1844 LS Low Liner",
+    "price": "140000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "04/07/2013",
+    "mileage": "770000 km",
+    "power": "320 KM"
+  },
+  {
+    "id": "6099986231",
+    "title": "Mercedes-Benz Actros",
+    "price": "109000 PLN",
+    "productionDate": "2022",
+    "registrationDate": null,
+    "mileage": "5 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098525092",
+    "title": "Mercedes-Benz Actros 1844 standart",
+    "price": "150000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "20/03/2014",
+    "mileage": "741500 km",
+    "power": "320 KM"
+  },
+  {
+    "id": "6099265641",
+    "title": "Mercedes-Benz Actros MP3 1841 LSNRL",
+    "price": "187000 PLN",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "1191059 km",
+    "power": "410 KM"
+  },
+  {
+    "id": "6097626592",
+    "title": "Mercedes-Benz Axor 1840",
+    "price": "98000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "16/07/2012",
+    "mileage": "707000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6088940305",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "21500 EUR",
+    "productionDate": "2013",
+    "registrationDate": "10/08/2013",
+    "mileage": "960000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099120873",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "134000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "07/11/2014",
+    "mileage": "970000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099978034",
+    "title": "Mercedes-Benz Actros",
+    "price": "249500 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "471143 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6098228997",
+    "title": "Mercedes-Benz ACTROS 1844",
+    "price": "112000 PLN",
+    "productionDate": "2009",
+    "registrationDate": null,
+    "mileage": "414000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099615126",
+    "title": "Mercedes-Benz ACTROS 1845 / 315/70 / Z FRANCJI / SPOILERY / 12/2016 / STAN BDB / / /",
+    "price": "119900 PLN",
+    "productionDate": "2016",
+    "registrationDate": "12/12/2016",
+    "mileage": "880000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099984662",
+    "title": "Mercedes-Benz ACTROS 2044",
+    "price": "155000 PLN",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "1053865 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099362322",
+    "title": "Mercedes-Benz 1845 L0W DECK mega LSNRL",
+    "price": "53500 EUR",
+    "productionDate": "2018",
+    "registrationDate": "04/02/2018",
+    "mileage": "450000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6087984650",
+    "title": "Mercedes-Benz ACTROS 1845 MP4 AROCS",
+    "price": "49900 EUR",
+    "productionDate": "2020",
+    "registrationDate": "01/10/2020",
+    "mileage": "89000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098599173",
+    "title": "Mercedes-Benz ACTROS MP4 1848 EURO-6 MEGA/ LOW-DECK GIGA SPACE",
+    "price": "267000 PLN",
+    "productionDate": "2019",
+    "registrationDate": "06/06/2019",
+    "mileage": "399000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099982970",
+    "title": "Mercedes-Benz Actros",
+    "price": "242700 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "528181 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099984916",
+    "title": "Mercedes-Benz 1845 LS standard bez retardera",
+    "price": "47000 EUR",
+    "productionDate": "2017",
+    "registrationDate": "22/07/2017",
+    "mileage": "520000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099627876",
+    "title": "Mercedes-Benz Actros 1845 Bigspace",
+    "price": "22900 EUR",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "952661 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096774800",
+    "title": "Mercedes-Benz Actros 1853 / 2017 / BigSpace / Retarder / NAVI / Euro6 / Stan Idealny",
+    "price": "269600 PLN",
+    "productionDate": "2017",
+    "registrationDate": "17/02/2017",
+    "mileage": "687000 km",
+    "power": "530 KM"
+  },
+  {
+    "id": "6090621169",
+    "title": "Mercedes-Benz 1845LS",
+    "price": "52000 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "470000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099625810",
+    "title": "Mercedes-Benz ACTROS 1845 BIG SPACESALON POLSKA",
+    "price": "159900 PLN",
+    "productionDate": "2016",
+    "registrationDate": "08/04/2016",
+    "mileage": "700000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099974877",
+    "title": "Mercedes-Benz ACTROS 2044 4x4 mp3",
+    "price": "176300 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "579088 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6098058221",
+    "title": "Mercedes-Benz Actros 2545 LS 6x2",
+    "price": "118900 EUR",
+    "productionDate": "2021",
+    "registrationDate": null,
+    "mileage": "109264 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099983415",
+    "title": "Mercedes-Benz",
+    "price": "84000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "1080000 km",
+    "power": "null"
+  },
+  {
+    "id": "6094789124",
+    "title": "Mercedes-Benz ACTROS 1851 / MP4 / RETARDER / HYDRAULIKA DWUOBIEGOWA / EURO 6 /",
+    "price": "129900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "06/02/2014",
+    "mileage": "698000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6095601455",
+    "title": "Mercedes-Benz Actros 1846",
+    "price": "55900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "365000 km",
+    "power": "460 KM"
+  },
+  {
+    "id": "6099984258",
+    "title": "Mercedes-Benz Actros",
+    "price": "175000 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "607000 km",
+    "power": "null"
+  },
+  {
+    "id": "6098056244",
+    "title": "Mercedes-Benz ACTROS 1845 - Big Space",
+    "price": "75500 EUR",
+    "productionDate": "2019",
+    "registrationDate": "19/10/2019",
+    "mileage": "430000 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6099985332",
+    "title": "Mercedes-Benz ACTROS MP4-EURO 6/TYLKO 319 TYŚ.KM/KLIMA KABINOWA/SUPER STAN !",
+    "price": "147700 PLN",
+    "productionDate": "2014",
+    "registrationDate": "09/07/2014",
+    "mileage": "319000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6098339993",
+    "title": "Mercedes-Benz Actros",
+    "price": "119999 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "815281 km",
+    "power": "428 KM"
+  },
+  {
+    "id": "6099985068",
+    "title": "Mercedes-Benz 1848 LS standard 480KM",
+    "price": "46600 EUR",
+    "productionDate": "2017",
+    "registrationDate": "20/06/2017",
+    "mileage": "595000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6094327905",
+    "title": "Mercedes-Benz AROCS 1846 / 4 X 4 / HYDRAULIKA / MAŁY PRZEBIEG / CIĄGNIK 4 X 4 /I-COOL /",
+    "price": "299900 PLN",
+    "productionDate": "2017",
+    "registrationDate": "04/04/2017",
+    "mileage": "165000 km",
+    "power": "460 KM"
+  },
+  {
+    "id": "6099797718",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "99000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "884000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6093873844",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "121000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "12/12/2016",
+    "mileage": "665000 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6096754947",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "111900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "17/07/2014",
+    "mileage": "429000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6099435554",
+    "title": "Mercedes-Benz Mp4",
+    "price": "69000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "966000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096972563",
+    "title": "Mercedes-Benz Actros Mp4E5mega + naczepa mega.",
+    "price": "87300 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "948000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096961125",
+    "title": "Mercedes-Benz Actros 2855 LS 6x4",
+    "price": "54000 EUR",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "317000 km",
+    "power": "550 KM"
+  },
+  {
+    "id": "6099961692",
+    "title": "Mercedes-Benz Actros MP4 euro 6",
+    "price": "155500 PLN",
+    "productionDate": "2016",
+    "registrationDate": "27/07/2016",
+    "mileage": "784569 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099961604",
+    "title": "Mercedes-Benz",
+    "price": "58500 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "345000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6088471306",
+    "title": "Mercedes-Benz 1846 Actros",
+    "price": "232000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "372222 km",
+    "power": "null"
+  },
+  {
+    "id": "6099961291",
+    "title": "Mercedes-Benz Actros",
+    "price": "97900 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "664830 km",
+    "power": "421 KM"
+  },
+  {
+    "id": "6097489827",
+    "title": "Mercedes-Benz ACTROS 1845LS",
+    "price": "250000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "512000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098756962",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "99900 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "999000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099960932",
+    "title": "Mercedes-Benz Actros 2545 LS",
+    "price": "178000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "582014 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099583999",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "58500 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "393251 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097436905",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "152000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "10/11/2016",
+    "mileage": "686807 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099770075",
+    "title": "Mercedes-Benz ACTROS MP3 1844 / EURO 5 EEV /",
+    "price": "97500 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "910000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099332060",
+    "title": "Mercedes-Benz Actros 1845 MP4 450km euro 5",
+    "price": "83900 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "870000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097721059",
+    "title": "Mercedes-Benz 1845",
+    "price": "102000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "24/06/2015",
+    "mileage": "866600 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099945531",
+    "title": "Mercedes-Benz",
+    "price": "43500 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "656000 km",
+    "power": "null"
+  },
+  {
+    "id": "6097498890",
+    "title": "Mercedes-Benz Actros 1851LS",
+    "price": "92900 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "808900 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6099583920",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "58900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "348322 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096791505",
+    "title": "Mercedes-Benz Actros 1845LS",
+    "price": "52000 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "460000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099321510",
+    "title": "Mercedes-Benz ACTROS 1845 MP4 / EURO 6 / ZADBANY /",
+    "price": "136000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "850000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099793978",
+    "title": "Mercedes-Benz 1845 LS standard bez retardera",
+    "price": "47000 EUR",
+    "productionDate": "2017",
+    "registrationDate": "22/07/2017",
+    "mileage": "520000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097564139",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / EURO 5 EEV /",
+    "price": "109900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "03/04/2013",
+    "mileage": "757000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6093859707",
+    "title": "Mercedes-Benz Actros 1845, StreamSpace, standard",
+    "price": "132900 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "976459 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6096989870",
+    "title": "Mercedes-Benz ACTROS 1845 LSnRL / BIG SPACE / LOW DECK / MEGA",
+    "price": "280000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "17/11/2018",
+    "mileage": "415000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099961672",
+    "title": "Mercedes-Benz Actros MP4 euro 6",
+    "price": "28300 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "784000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099961263",
+    "title": "Mercedes-Benz ACTROS 1848 / STREAM SPACE / RETARDER / EURO 6 / SPROWADZONY /",
+    "price": "149900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "22/04/2016",
+    "mileage": "673000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099794947",
+    "title": "Mercedes-Benz / AROCS / 1843 / E 6 / 4 X 4 / ALLRAD / RESOR / HYDRAULIKA",
+    "price": "228000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "340000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6094268788",
+    "title": "Mercedes-Benz ACTROS 1845 EURO 6_DOFINANSOWANY_ZADBANY",
+    "price": "92500 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "1476000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099584365",
+    "title": "Mercedes-Benz ACTROS 1845 EURO 6 BIGSPACERETARDER STANDARD SALON POLSKA JAK NOWY !!!!",
+    "price": "269000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "11/07/2018",
+    "mileage": "490000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099932020",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "78000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "980000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6098778655",
+    "title": "Mercedes-Benz Actros",
+    "price": "42000 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "550000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099929432",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "99000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1002000 km",
+    "power": "null"
+  },
+  {
+    "id": "6097561054",
+    "title": "Mercedes-Benz 1845",
+    "price": "294900 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "445000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098207978",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "55900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "413516 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6089091303",
+    "title": "Mercedes-Benz Actros Mp4",
+    "price": "88000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "754000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099301029",
+    "title": "Mercedes-Benz Actros 1848 Standard",
+    "price": "99900 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "649000 km",
+    "power": "476 KM"
+  },
+  {
+    "id": "6099771785",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "55900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "429793 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097912803",
+    "title": "Mercedes-Benz Actros 1845 LS * Klima Postojowa *",
+    "price": "275000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "02/08/2017",
+    "mileage": "439750 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099111629",
+    "title": "Mercedes-Benz 1848 LS standard",
+    "price": "54000 EUR",
+    "productionDate": "2018",
+    "registrationDate": "28/01/2018",
+    "mileage": "498000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099112819",
+    "title": "Mercedes-Benz Actros 1848 euro 6",
+    "price": "79300 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "823000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6096576766",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "45900 EUR",
+    "productionDate": "2018",
+    "registrationDate": "21/01/2019",
+    "mileage": "620000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099928041",
+    "title": "Mercedes-Benz ACTROS 1845 Stream Space",
+    "price": "22800 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "651505 km",
+    "power": "null"
+  },
+  {
+    "id": "6087500341",
+    "title": "Mercedes-Benz Actros",
+    "price": "33900 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "530000 km",
+    "power": "null"
+  },
+  {
+    "id": "6097709294",
+    "title": "Mercedes-Benz actros",
+    "price": "199000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "507000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6090273354",
+    "title": "Mercedes-Benz Actros 1851",
+    "price": "386400 PLN",
+    "productionDate": "2018",
+    "registrationDate": "22/01/2019",
+    "mileage": "176000 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6099925896",
+    "title": "Mercedes-Benz ACTROS MO4",
+    "price": "95000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "18/03/2015",
+    "mileage": "754000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095617046",
+    "title": "Mercedes-Benz Actros 1842 Mega lowdeck Bogata wersja Super Stan",
+    "price": "146900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "10/12/2015",
+    "mileage": "594000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099107164",
+    "title": "Mercedes-Benz Actros 2545 Produkcja 09.2015 BDF 3 osie",
+    "price": "89900 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "999888 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094211759",
+    "title": "Mercedes-Benz Actros 1845/EURO6",
+    "price": "99700 PLN",
+    "productionDate": "2013",
+    "registrationDate": "07/06/2013",
+    "mileage": "826800 km",
+    "power": "null"
+  },
+  {
+    "id": "6093791193",
+    "title": "Mercedes-Benz Acxtros 1851 LS * Full opcja * BigSpace *",
+    "price": "225000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "15/11/2016",
+    "mileage": "540785 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6098075090",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "108000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "752300 km",
+    "power": "null"
+  },
+  {
+    "id": "6097367269",
+    "title": "Mercedes-Benz Actros 1845 LS * Klima Postojowa *",
+    "price": "285000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "21/11/2017",
+    "mileage": "432114 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099191524",
+    "title": "Mercedes-Benz Actros MP3 1844",
+    "price": "102000 PLN",
+    "productionDate": "2011",
+    "registrationDate": "17/03/2011",
+    "mileage": "880000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099763595",
+    "title": "Mercedes-Benz / AROCS / 1845 / 4 X 4 / HAD / E 6 / ACC / HYDRAULIKA",
+    "price": "228000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "310000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099913815",
+    "title": "Mercedes-Benz ACTROS 1845 / STANDARD / 15-16R./ BIGSPACE",
+    "price": "126900 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "790000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099765049",
+    "title": "Mercedes-Benz MERCEDES-BENZACTROS 1848 / STREAM SPACE / EURO 6 /",
+    "price": "159900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "27/08/2015",
+    "mileage": "565000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099929199",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "99000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "900000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099762229",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "39900 EUR",
+    "productionDate": "2017",
+    "registrationDate": "29/03/2017",
+    "mileage": "646000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098198207",
+    "title": "Mercedes-Benz Actros 1848 z Hidraulika",
+    "price": "37850 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "589079 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099300993",
+    "title": "Mercedes-Benz ACTROS 1843 / PEŁNY ADR / WAGA: 7 T / MAŁY PRZEBIEG / EURO 6 /",
+    "price": "219900 PLN",
+    "productionDate": "2016",
+    "registrationDate": "01/06/2016",
+    "mileage": "381000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6098035968",
+    "title": "Mercedes-Benz 1845 ACTROS",
+    "price": "159000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "820000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099904626",
+    "title": "Mercedes-Benz Actros 1845 MP4",
+    "price": "95000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "960000 km",
+    "power": "null"
+  },
+  {
+    "id": "6098013257",
+    "title": "Mercedes-Benz Actros",
+    "price": "99500 PLN",
+    "productionDate": "2014",
+    "registrationDate": "05/05/2014",
+    "mileage": "906000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099895385",
+    "title": "Mercedes-Benz ACTROS 1844",
+    "price": "86000 PLN",
+    "productionDate": "2006",
+    "registrationDate": null,
+    "mileage": "276000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6090217094",
+    "title": "Mercedes-Benz Actros MP 4 Low Deck",
+    "price": "129500 PLN",
+    "productionDate": "2016",
+    "registrationDate": "22/02/2016",
+    "mileage": "812000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099897234",
+    "title": "Mercedes-Benz Actros 1842",
+    "price": "130950 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "607986 km",
+    "power": "421 KM"
+  },
+  {
+    "id": "6096836613",
+    "title": "Mercedes-Benz Actros",
+    "price": "306000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "18/10/2018",
+    "mileage": "468560 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099902012",
+    "title": "Mercedes-Benz Actros 1842 Standard",
+    "price": "94500 PLN",
+    "productionDate": "2014",
+    "registrationDate": "03/03/2014",
+    "mileage": "438000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6095483148",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "35900 EUR",
+    "productionDate": "2017",
+    "registrationDate": "01/02/2017",
+    "mileage": "805000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099545041",
+    "title": "Mercedes-Benz 1845 ciągnik siodłowy 2015 EURO 6 AUTOMAT",
+    "price": "30000 EUR",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "590000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094265815",
+    "title": "Mercedes-Benz ACTROS 2545L 6X2 +System BDF, Euro 6",
+    "price": "177900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "15/11/2014",
+    "mileage": "680000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099901910",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "109000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "450000 km",
+    "power": "395 KM"
+  },
+  {
+    "id": "6099901330",
+    "title": "Mercedes-Benz Actros 1844 Przebieg 390 tyś.km",
+    "price": "91900 PLN",
+    "productionDate": "2007",
+    "registrationDate": null,
+    "mileage": "390tyś. km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6099895131",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "28500 EUR",
+    "productionDate": "2016",
+    "registrationDate": "12/05/2016",
+    "mileage": "1024205 km",
+    "power": "null"
+  },
+  {
+    "id": "6099894984",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 StreamSpace PB",
+    "price": "36100 EUR",
+    "productionDate": "2017",
+    "registrationDate": "08/05/2017",
+    "mileage": "853986 km",
+    "power": "null"
+  },
+  {
+    "id": "6094360164",
+    "title": "Mercedes-Benz Actros 1851 LS * BigSpace *",
+    "price": "215000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "15/11/2016",
+    "mileage": "596580 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6099542647",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / RETARDER / EURO 5 / PTO / 08.2012 R /",
+    "price": "119900 PLN",
+    "productionDate": "2012",
+    "registrationDate": "28/07/2012",
+    "mileage": "635000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099899987",
+    "title": "Mercedes-Benz 1845 LS standard bez retardera fabrycznie",
+    "price": "62600 EUR",
+    "productionDate": "2018",
+    "registrationDate": "28/04/2018",
+    "mileage": "360000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099895006",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "29300 EUR",
+    "productionDate": "2016",
+    "registrationDate": "19/05/2016",
+    "mileage": "979634 km",
+    "power": "null"
+  },
+  {
+    "id": "6099089668",
+    "title": "Mercedes-Benz Actros 1844+Rolfo 2012 naczepą do przewozu samochodów",
+    "price": "137200 PLN",
+    "productionDate": "2013",
+    "registrationDate": "03/07/2013",
+    "mileage": "794181 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6099896397",
+    "title": "Mercedes-Benz Actros",
+    "price": "252000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "620000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099617430",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "23500 EUR",
+    "productionDate": "2014",
+    "registrationDate": "19/02/2015",
+    "mileage": "945630 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099739971",
+    "title": "Mercedes-Benz ACTROS L 1845 / NA GWARANCJI / JAK NOWY / 02.2022 R / BIG SPACE /",
+    "price": "106000 EUR",
+    "productionDate": "2022",
+    "registrationDate": null,
+    "mileage": "50000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099894969",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 StreamSpace PB",
+    "price": "36300 EUR",
+    "productionDate": "2017",
+    "registrationDate": "03/05/2017",
+    "mileage": "844711 km",
+    "power": "null"
+  },
+  {
+    "id": "6099542802",
+    "title": "Mercedes-Benz ACTROS 1848 / BIG SPACE / EURO 6 / SPROWADZONY /",
+    "price": "179900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "22/07/2015",
+    "mileage": "615000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6087770105",
+    "title": "Mercedes-Benz Actros 1848 BIGSPACE Full opcja Xenon ACC PCC Air-bag",
+    "price": "252000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "548000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099165827",
+    "title": "Mercedes-Benz ACTROS 1845 / ZŁOTY KONTRAKT / STANDARD /",
+    "price": "19900 EUR",
+    "productionDate": "2014",
+    "registrationDate": "27/05/2014",
+    "mileage": "999000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099260543",
+    "title": "Mercedes-Benz AROCS 2648, 6x4, 100% ORYGINAŁ",
+    "price": "278000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "01/04/2016",
+    "mileage": "377000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6095534675",
+    "title": "Mercedes-Benz ANTOS 1832 4x2 EURO6 CIĄGNIK SIODŁOWY",
+    "price": "19900 EUR",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "551996 km",
+    "power": "320 KM"
+  },
+  {
+    "id": "6096836970",
+    "title": "Mercedes-Benz Actros",
+    "price": "308000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "18/10/2018",
+    "mileage": "454397 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099895048",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "28800 EUR",
+    "productionDate": "2016",
+    "registrationDate": "18/05/2016",
+    "mileage": "1006894 km",
+    "power": "null"
+  },
+  {
+    "id": "6099895098",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "28100 EUR",
+    "productionDate": "2016",
+    "registrationDate": "20/04/2016",
+    "mileage": "1045273 km",
+    "power": "null"
+  },
+  {
+    "id": "6099896355",
+    "title": "Mercedes-Benz 1844 Actros BlueTec 5 11946ccm - 435KM 18t 08-13",
+    "price": "62600 PLN",
+    "productionDate": "2012",
+    "registrationDate": "03/10/2012",
+    "mileage": "1015385 km",
+    "power": "435 KM"
+  },
+  {
+    "id": "6098139889",
+    "title": "Mercedes-Benz actros",
+    "price": "27000 EUR",
+    "productionDate": "2015",
+    "registrationDate": "18/06/2015",
+    "mileage": "640763 km",
+    "power": "428 KM"
+  },
+  {
+    "id": "6099880948",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "99000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "17/06/2015",
+    "mileage": "834303 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6097571963",
+    "title": "Mercedes-Benz actros",
+    "price": "220000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "21/02/2017",
+    "mileage": "451000 km",
+    "power": "455 KM"
+  },
+  {
+    "id": "6098228451",
+    "title": "Mercedes-Benz actros",
+    "price": "110000 PLN",
+    "productionDate": "2015",
+    "registrationDate": "29/06/2015",
+    "mileage": "840000 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6097166282",
+    "title": "Mercedes-Benz ACTROS 2653 6X2+2 HYDRAULIKA AUTOMAT",
+    "price": "68900 EUR",
+    "productionDate": "2018",
+    "registrationDate": "30/11/2018",
+    "mileage": "294000 km",
+    "power": "530 KM"
+  },
+  {
+    "id": "6098286127",
+    "title": "Mercedes-Benz Arocs",
+    "price": "250000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "294000 km",
+    "power": "null"
+  },
+  {
+    "id": "6097620413",
+    "title": "Mercedes-Benz actros",
+    "price": "240000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "616000 km",
+    "power": "630 KM"
+  },
+  {
+    "id": "6098026758",
+    "title": "Mercedes-Benz Actros 1845 MP4 LS 4X2 StreamSpace EURO 6",
+    "price": "91000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "1080000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099894223",
+    "title": "Mercedes-Benz ACTROS 1845 MEGA",
+    "price": "88000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "900000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099153671",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "142000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "640000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099886679",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "62100 EUR",
+    "productionDate": "2019",
+    "registrationDate": "06/06/2019",
+    "mileage": "522043 km",
+    "power": "null"
+  },
+  {
+    "id": "6099861499",
+    "title": "Mercedes-Benz",
+    "price": "73500 EUR",
+    "productionDate": "2019",
+    "registrationDate": "13/03/2019",
+    "mileage": "412000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095536971",
+    "title": "Mercedes-Benz Axor",
+    "price": "49900 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "706718 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6098173377",
+    "title": "Mercedes-Benz Actros 1848 Bigspace",
+    "price": "33900 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "640203 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6097929784",
+    "title": "Mercedes-Benz ACTROS 1845 STANDARD",
+    "price": "49900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "429000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099894476",
+    "title": "Mercedes-Benz ACTROS 1845 MEGA",
+    "price": "92000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "900000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099883283",
+    "title": "Mercedes-Benz Actros",
+    "price": "61000 EUR",
+    "productionDate": "2019",
+    "registrationDate": "04/01/2019",
+    "mileage": "450000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099886838",
+    "title": "Mercedes-Benz Actros 1848 LS 4x2 BigSpace PC",
+    "price": "40400 EUR",
+    "productionDate": "2017",
+    "registrationDate": "26/06/2017",
+    "mileage": "841884 km",
+    "power": "null"
+  },
+  {
+    "id": "6099884185",
+    "title": "Mercedes-Benz 1848 Actros MP4 2016 / Wersja szosowa",
+    "price": "42000 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "590000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6098313793",
+    "title": "Mercedes-Benz ACTROS 1841",
+    "price": "66900 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "1077172 km",
+    "power": "408 KM"
+  },
+  {
+    "id": "6099210323",
+    "title": "Mercedes-Benz Actros 1845 Low Deck, Mega",
+    "price": "184900 PLN",
+    "productionDate": "2019",
+    "registrationDate": "11/04/2019",
+    "mileage": "357000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098173123",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "38900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "637406 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099089818",
+    "title": "Mercedes-Benz Actros 1845 LS 4x2 BigSpace",
+    "price": "59300 EUR",
+    "productionDate": "2019",
+    "registrationDate": "16/01/2019",
+    "mileage": "561502 km",
+    "power": "null"
+  },
+  {
+    "id": "6099159196",
+    "title": "Mercedes-Benz ActrosMP4Low Deck",
+    "price": "87000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "894000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099219424",
+    "title": "Mercedes-Benz 1845 LS standard bez retardera fabrycznie",
+    "price": "60400 EUR",
+    "productionDate": "2018",
+    "registrationDate": "27/07/2018",
+    "mileage": "460000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097005525",
+    "title": "Mercedes-Benz Arocs 1842 LS",
+    "price": "47000 EUR",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "450174 km",
+    "power": "421 KM"
+  },
+  {
+    "id": "6099083779",
+    "title": "Mercedes-Benz ACTROS 1845 LS / BIGSPACE / STANDARD",
+    "price": "299000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "08/12/2018",
+    "mileage": "370000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099540379",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "23500 EUR",
+    "productionDate": "2014",
+    "registrationDate": "27/02/2015",
+    "mileage": "861236 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6099883192",
+    "title": "Mercedes-Benz Actros",
+    "price": "114083 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "584313 km",
+    "power": "421 KM"
+  },
+  {
+    "id": "6099533101",
+    "title": "Mercedes-Benz ACTROS / 1848 / ACC / E 6 / MEGA / LOW DECK / BIG SPACE",
+    "price": "292000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099081508",
+    "title": "Mercedes-Benz ACTROS / 1845 / ACC / E 6 / GIGA SPACE / BAKI 1300 L / MAŁY PRZEBIEG",
+    "price": "316000 PLN",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "350000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099081571",
+    "title": "Mercedes-Benz ACTROS / 1848 / ACC / E 6 / GIGA SPACE / RETARDER / BAKI 1300 L / MAŁY PRZEBIEG",
+    "price": "268000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "null"
+  },
+  {
+    "id": "6082568731",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "120000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "05/05/2015",
+    "mileage": "820000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6092278757",
+    "title": "Mercedes-Benz Axor",
+    "price": "75000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "717000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6099577400",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "99800 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "804000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099869352",
+    "title": "Mercedes-Benz Actros",
+    "price": "89900 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "798000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6095297115",
+    "title": "Mercedes-Benz MP4",
+    "price": "17500 EUR",
+    "productionDate": "2013",
+    "registrationDate": "14/03/2013",
+    "mileage": "936304 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098277210",
+    "title": "Mercedes-Benz AROCS ACTROS 1845 HYDRAULIKA NISKA KABINA ALU FELGISUPER TRĄBY",
+    "price": "68000 EUR",
+    "productionDate": "2019",
+    "registrationDate": "17/08/2019",
+    "mileage": "189900 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099451962",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "135000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "698200 km",
+    "power": "350 KM"
+  },
+  {
+    "id": "6080500247",
+    "title": "Mercedes-Benz 26/48 6x4",
+    "price": "149000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "370000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6091329486",
+    "title": "Mercedes-Benz 2848 6x4 Actros",
+    "price": "333000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "76000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6098251267",
+    "title": "Mercedes-Benz Actros 1842 MP4 LS 4X2 BigSpace EURO 6",
+    "price": "54400 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "519000 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099562475",
+    "title": "Mercedes-Benz 1845",
+    "price": "60500 EUR",
+    "productionDate": "2018",
+    "registrationDate": "26/07/2018",
+    "mileage": "479000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099872240",
+    "title": "Mercedes-Benz Actros 1848 Megaspace",
+    "price": "124900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "16/07/2014",
+    "mileage": "797000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099207664",
+    "title": "Mercedes-Benz ACTROS 1840 MP4 / EURO 6 / PEŁNY ADR / AUTOMAT /",
+    "price": "129500 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "820000 km",
+    "power": "null"
+  },
+  {
+    "id": "6096332733",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "23500 EUR",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "915534 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6089981678",
+    "title": "Mercedes-Benz 1848",
+    "price": "119000 PLN",
+    "productionDate": "2009",
+    "registrationDate": null,
+    "mileage": "780000 km",
+    "power": "null"
+  },
+  {
+    "id": "6094927213",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / EURO 5 /",
+    "price": "99900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "03/04/2013",
+    "mileage": "819000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097976857",
+    "title": "Mercedes-Benz 1843",
+    "price": "79900 EUR",
+    "productionDate": "2020",
+    "registrationDate": "20/01/2020",
+    "mileage": "165000 km",
+    "power": "455 KM"
+  },
+  {
+    "id": "6099873574",
+    "title": "Mercedes-Benz ACTROS 1845 / SALON POLSKA / STANDARD / AUTOMAT / EURO 6 / I WŁAŚCICIEL",
+    "price": "111000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "30/06/2014",
+    "mileage": "954000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099697699",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / LOW DECK / 2019 R / MEGA / POLSKI SALON / EURO 6 /",
+    "price": "312000 PLN",
+    "productionDate": "2019",
+    "registrationDate": "02/11/2019",
+    "mileage": "363000 km",
+    "power": "500 KM"
+  },
+  {
+    "id": "6099702162",
+    "title": "Mercedes-Benz ACTROS 1845 / STREAM SPACE / RETARDER / FLEETBOARD / EURO 6 /",
+    "price": "159900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "16/06/2015",
+    "mileage": "643000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099064748",
+    "title": "Mercedes-Benz Actros 1845 LSnRL * Regulowane siodło * Bi-Xenon *",
+    "price": "229000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "11/02/2017",
+    "mileage": "569058 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094787614",
+    "title": "Mercedes-Benz ACTROS 1843 / HYADRAULIKA / EURO 6 / Z NIEMIEC /",
+    "price": "119900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "03/04/2014",
+    "mileage": "790000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6099700597",
+    "title": "Mercedes-Benz Actros 1844",
+    "price": "17500 EUR",
+    "productionDate": "2011",
+    "registrationDate": "04/10/2011",
+    "mileage": "962000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099125571",
+    "title": "Mercedes-Benz MP 4",
+    "price": "149990 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "880000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099557606",
+    "title": "Mercedes-Benz Actros",
+    "price": "61000 EUR",
+    "productionDate": "2019",
+    "registrationDate": "04/01/2019",
+    "mileage": "450000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098581827",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "138000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "06/03/2014",
+    "mileage": "738000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095257086",
+    "title": "Mercedes-Benz 1840",
+    "price": "139000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "14/06/2016",
+    "mileage": "448712 km",
+    "power": "null"
+  },
+  {
+    "id": "6094929485",
+    "title": "Mercedes-Benz 1845/2145 Actros MP4 Big Space Standard Bez retarder Alufelgi",
+    "price": "33800 EUR",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "690000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099502954",
+    "title": "Mercedes-Benz Actros",
+    "price": "180000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "604267 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099123052",
+    "title": "Mercedes-Benz Actros",
+    "price": "235000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "409000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099064358",
+    "title": "Mercedes-Benz Actros 1845 Bigspace Lowdeck",
+    "price": "58900 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "384026 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099701063",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "20750 EUR",
+    "productionDate": "2013",
+    "registrationDate": "14/11/2013",
+    "mileage": "886000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094356062",
+    "title": "Mercedes-Benz Actros 18.48 LS Okazja",
+    "price": "49900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "539000 km",
+    "power": "null"
+  },
+  {
+    "id": "6091832088",
+    "title": "Mercedes-Benz Arocs 18.43 LS Stan Idealny Nowe Opony !!!!",
+    "price": "149000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "446000 km",
+    "power": "null"
+  },
+  {
+    "id": "6082279556",
+    "title": "Mercedes-Benz Actros 18.45 LS Giga Full opcja !!!Niski przebieg",
+    "price": "39900 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "598000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099869133",
+    "title": "Mercedes-Benz 1845",
+    "price": "25000 EUR",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "840000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094355809",
+    "title": "Mercedes-Benz Actros 18.45 LS BIG-SPACE ! Full Opcja !! Okazja !!",
+    "price": "49900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "573000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099122496",
+    "title": "Mercedes-Benz Actros 1844LS",
+    "price": "110000 PLN",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "785000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099867993",
+    "title": "Mercedes-Benz Actros 440 LS",
+    "price": "65000 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "1200000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6097586841",
+    "title": "Mercedes-Benz MP4",
+    "price": "120000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "826000 km",
+    "power": "460 KM"
+  },
+  {
+    "id": "6098155193",
+    "title": "Mercedes-Benz Actros MP4",
+    "price": "115500 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "900000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099515770",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "284000 PLN",
+    "productionDate": "2020",
+    "registrationDate": null,
+    "mileage": "148000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6097473436",
+    "title": "Mercedes-Benz AXOR",
+    "price": "64999 PLN",
+    "productionDate": "2012",
+    "registrationDate": "10/10/2012",
+    "mileage": "898500 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6094065623",
+    "title": "Mercedes-Benz Arocs 18.45 LS 4x4 HAD (Hydro-drive)",
+    "price": "49900 EUR",
+    "productionDate": "2017",
+    "registrationDate": "20/01/2017",
+    "mileage": "489000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6090545457",
+    "title": "Mercedes-Benz Actros 18.42 LS",
+    "price": "35900 EUR",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "500000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099485068",
+    "title": "Mercedes-Benz ACTROS18.48EURO 6BICSPACE !!!",
+    "price": "152000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "15/11/2016",
+    "mileage": "633916 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6095898634",
+    "title": "Mercedes-Benz ACTROS MP4",
+    "price": "70000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "698000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099854456",
+    "title": "Mercedes-Benz Actros 1942",
+    "price": "86000 PLN",
+    "productionDate": "2011",
+    "registrationDate": null,
+    "mileage": "862000 km",
+    "power": "null"
+  },
+  {
+    "id": "6097106800",
+    "title": "Mercedes-Benz Actros 2645",
+    "price": "117900 PLN",
+    "productionDate": "2013",
+    "registrationDate": "05/07/2013",
+    "mileage": "558284 km",
+    "power": "null"
+  },
+  {
+    "id": "6099848729",
+    "title": "Mercedes-Benz ACTROS 1848 Giga-Space",
+    "price": "99900 EUR",
+    "productionDate": "2020",
+    "registrationDate": "04/10/2020",
+    "mileage": "120000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099866641",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "85000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "04/10/2012",
+    "mileage": "1046000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098836703",
+    "title": "Mercedes-Benz Actros 1836 / Welgro",
+    "price": "165000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "443572 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6096819607",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "209000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "31/10/2016",
+    "mileage": "560000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099843786",
+    "title": "Mercedes-Benz",
+    "price": "53800 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "480000 km",
+    "power": "null"
+  },
+  {
+    "id": "6091831444",
+    "title": "Mercedes-Benz Actros 18.42 LS ! Okazja Auto po kontrakt Serwisowy !!",
+    "price": "43900 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "524000 km",
+    "power": "null"
+  },
+  {
+    "id": "6094813037",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "48000 EUR",
+    "productionDate": "2018",
+    "registrationDate": null,
+    "mileage": "529843 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6099857179",
+    "title": "Mercedes-Benz 1848 Actros MP4 2016 / LEKKI",
+    "price": "39500 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "600000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6097780721",
+    "title": "Mercedes-Benz Axor",
+    "price": "67800 PLN",
+    "productionDate": "2008",
+    "registrationDate": null,
+    "mileage": "679631 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6099108340",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "55000 EUR",
+    "productionDate": "2018",
+    "registrationDate": "20/03/2018",
+    "mileage": "519000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099863896",
+    "title": "Mercedes-Benz ACTROS MP4",
+    "price": "67000 PLN",
+    "productionDate": "2015",
+    "registrationDate": null,
+    "mileage": "823000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099867112",
+    "title": "Mercedes-Benz Actros",
+    "price": "212000 PLN",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "607000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099445371",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "155000 PLN",
+    "productionDate": "2014",
+    "registrationDate": "31/07/2014",
+    "mileage": "807000 km",
+    "power": "330 KM"
+  },
+  {
+    "id": "6098277045",
+    "title": "Mercedes-Benz Actros mp4",
+    "price": "75900 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "1250000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099515482",
+    "title": "Mercedes-Benz ACTROS MP4",
+    "price": "240000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "20/10/2017",
+    "mileage": "550000 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6098408591",
+    "title": "Mercedes-Benz actros",
+    "price": "99000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "23/09/2013",
+    "mileage": "700000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6089633125",
+    "title": "Mercedes-Benz ACTROS 1848 Giga-Space",
+    "price": "99900 EUR",
+    "productionDate": "2018",
+    "registrationDate": "04/10/2020",
+    "mileage": "120000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099839518",
+    "title": "Mercedes-Benz 1836 Actros E5 18.0t",
+    "price": "73000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "30/05/2016",
+    "mileage": "485829 km",
+    "power": "360 KM"
+  },
+  {
+    "id": "6099772447",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "79500 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "1150000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6096551508",
+    "title": "Mercedes-Benz ATEGO",
+    "price": "18900 EUR",
+    "productionDate": "2015",
+    "registrationDate": "05/10/2015",
+    "mileage": "826749 km",
+    "power": "272 KM"
+  },
+  {
+    "id": "6099422506",
+    "title": "Mercedes-Benz Actros",
+    "price": "110000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "860000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099377058",
+    "title": "Mercedes-Benz Actros",
+    "price": "43500 EUR",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "830000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095581121",
+    "title": "Mercedes-Benz Actros 1844",
+    "price": "108500 PLN",
+    "productionDate": "2010",
+    "registrationDate": null,
+    "mileage": "867065 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099084916",
+    "title": "Mercedes-Benz Actros ADR BEZ Przebiegu ! Waga 7000 kg",
+    "price": "299000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "u!Waga7000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099806791",
+    "title": "Mercedes-Benz Sk 25 24",
+    "price": "25900 PLN",
+    "productionDate": "1994",
+    "registrationDate": null,
+    "mileage": "398000 km",
+    "power": "null"
+  },
+  {
+    "id": "6080652899",
+    "title": "Mercedes-Benz Actros 1842",
+    "price": "84900 PLN",
+    "productionDate": "2014",
+    "registrationDate": "17/01/2014",
+    "mileage": "1010571 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099806100",
+    "title": "Mercedes-Benz Actros",
+    "price": "300000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "13/12/2018",
+    "mileage": "492000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099816311",
+    "title": "Mercedes-Benz ACTROS 1843",
+    "price": "145000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "850000 km",
+    "power": "430 KM"
+  },
+  {
+    "id": "6099794850",
+    "title": "Mercedes-Benz 1845 LS nRL",
+    "price": "74900 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "392008 km",
+    "power": "449 KM"
+  },
+  {
+    "id": "6097162421",
+    "title": "Mercedes-Benz ACTROS 1845 MEGA",
+    "price": "92000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "946000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099793039",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "100000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "1041072 km",
+    "power": "420 KM"
+  },
+  {
+    "id": "6099810459",
+    "title": "Mercedes-Benz Actros1845",
+    "price": "83500 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "980000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6094136419",
+    "title": "Mercedes-Benz Actros 1851",
+    "price": "100000 EUR",
+    "productionDate": "2022",
+    "registrationDate": null,
+    "mileage": "1 km",
+    "power": "510 KM"
+  },
+  {
+    "id": "6098157396",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "62500 EUR",
+    "productionDate": "2019",
+    "registrationDate": null,
+    "mileage": "554000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099441791",
+    "title": "Mercedes-Benz Actros 1845 LS",
+    "price": "100000 PLN",
+    "productionDate": "2012",
+    "registrationDate": null,
+    "mileage": "884000 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6097825991",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "129900 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "811000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098028740",
+    "title": "Mercedes-Benz Actros",
+    "price": "163000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "17/03/2016",
+    "mileage": "779624 km",
+    "power": "448 KM"
+  },
+  {
+    "id": "6099381688",
+    "title": "Mercedes-Benz 18.48 HAD",
+    "price": "184900 PLN",
+    "productionDate": "2015",
+    "registrationDate": "07/07/2015",
+    "mileage": "680000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6098167256",
+    "title": "Mercedes-Benz Actros",
+    "price": "39000 EUR",
+    "productionDate": "2016",
+    "registrationDate": "16/02/2016",
+    "mileage": "623000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6096880418",
+    "title": "Mercedes-Benz Actros 1845*Giga Space*Aktywny Tempomat*Lodówka*",
+    "price": "269000 PLN",
+    "productionDate": "2018",
+    "registrationDate": "05/06/2018",
+    "mileage": "447000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099807122",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "84000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "960000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099824762",
+    "title": "Mercedes-Benz ACTROS 1848 STREAMSPACE",
+    "price": "125000 PLN",
+    "productionDate": "2017",
+    "registrationDate": "01/07/2017",
+    "mileage": "560000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099395344",
+    "title": "Mercedes-Benz Antos/ Actros/ Axor/ 1835/",
+    "price": "159500 PLN",
+    "productionDate": "2015",
+    "registrationDate": "02/02/2016",
+    "mileage": "215000 km",
+    "power": "null"
+  },
+  {
+    "id": "6092769162",
+    "title": "Mercedes-Benz Actros",
+    "price": "22700 EUR",
+    "productionDate": "2011",
+    "registrationDate": "26/08/2011",
+    "mileage": "590061 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6095804063",
+    "title": "Mercedes-Benz ACTROS 1845",
+    "price": "99000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "998000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099830007",
+    "title": "Mercedes-Benz 1845",
+    "price": "60500 EUR",
+    "productionDate": "2018",
+    "registrationDate": "25/07/2018",
+    "mileage": "460000 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6099074807",
+    "title": "Mercedes-Benz Actros 1840",
+    "price": "95000 PLN",
+    "productionDate": "2014",
+    "registrationDate": null,
+    "mileage": "780000 km",
+    "power": "400 KM"
+  },
+  {
+    "id": "6097012271",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "120000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "13/09/2016",
+    "mileage": "813000 km",
+    "power": "330 KM"
+  },
+  {
+    "id": "6099770832",
+    "title": "Mercedes-Benz Actros",
+    "price": "175000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "12/04/2016",
+    "mileage": "700000 km",
+    "power": "460 KM"
+  },
+  {
+    "id": "6096122148",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "95000 PLN",
+    "productionDate": "2013",
+    "registrationDate": "09/05/2013",
+    "mileage": "932462 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6096695623",
+    "title": "Mercedes-Benz ACTROS 450 EURO 5",
+    "price": "80000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "10/04/2013",
+    "mileage": "1076201 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6095063144",
+    "title": "Mercedes-Benz ACTROS",
+    "price": "90000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "22/05/2013",
+    "mileage": "1036436 km",
+    "power": "450 KM"
+  },
+  {
+    "id": "6098947081",
+    "title": "Mercedes-Benz Actros MP4 1845 Standard",
+    "price": "72000 PLN",
+    "productionDate": "2013",
+    "registrationDate": null,
+    "mileage": "1168000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099260750",
+    "title": "Mercedes-Benz 1853",
+    "price": "245000 PLN",
+    "productionDate": "2016",
+    "registrationDate": null,
+    "mileage": "595000 km",
+    "power": "null"
+  },
+  {
+    "id": "6099121988",
+    "title": "Mercedes-Benz Actros 1844",
+    "price": "128000 PLN",
+    "productionDate": "2012",
+    "registrationDate": "20/09/2012",
+    "mileage": "557000 km",
+    "power": "440 KM"
+  },
+  {
+    "id": "6099064339",
+    "title": "Mercedes-Benz Actros 1848 Giga Space L0wdeck Bez retarder",
+    "price": "45500 EUR",
+    "productionDate": "2017",
+    "registrationDate": null,
+    "mileage": "515000 km",
+    "power": "480 KM"
+  },
+  {
+    "id": "6099771014",
+    "title": "Mercedes-Benz ACTROS 1845 BIG SPACE ACC 2016 R. SALON PL. JAK NOWY.",
+    "price": "159000 PLN",
+    "productionDate": "2016",
+    "registrationDate": "30/06/2016",
+    "mileage": "780000 km",
+    "power": "450 KM"
+  }
+]
